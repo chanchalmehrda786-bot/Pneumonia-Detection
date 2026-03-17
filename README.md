@@ -39,7 +39,6 @@ Each set has two categories:
 
 ## 📁 Project Structure
 
-```
 Pneumonia_Detection_Project
 │
 ├── chest_xray
@@ -59,19 +58,8 @@ Pneumonia_Detection_Project
 * Build a Web App using Streamlit
 * Deploy model using Flask or FastAPI
 
-
-
 ## 💡 Use Cases
 
 * Medical diagnosis assistance
 * AI-based healthcare tools
 * Educational Deep Learning projects
-
-
-## ⚠️ Disclaimer
-
-This project is for **educational purposes only** and should not be used as a substitute for professional medical diagnosis.
-
-
-
-
